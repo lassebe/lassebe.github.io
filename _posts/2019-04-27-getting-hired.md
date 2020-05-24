@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting hired as a software engineer"
+title:  "How I got my first software engineering job"
 date:   2019-04-27 18:16:50 +0100
 categories: none
 ---
@@ -19,4 +19,4 @@ The rejection that stung the most was one from a company that I’d gotten reall
 
 I did get some offers in the end though. They ended up varying wildly in terms of compensation (the highest salary was 53% higher than the lowest). I didn’t end up negotiating, which I think would make [patio11 unhappy](https://www.kalzumeus.com/2012/01/23/salary-negotiation/). But at that point I felt the offer was fair, and I honestly didn’t want to risk anything. Even though, I’m confident they would have handled it like professionals. It’s much easier to tell someone else to stick to their guns.
 
-If you’re in the same position I was in, I’d recommend checking out [this repo](https://github.com/poteto/hiring-without-whiteboards) for a list of companies that don’t use whiteboard style interviews. I won’t talk too much about the interview process of the company I ended up going with. I don’t want to shill too much. But if you’re curious, I’m happy to talk about it. Suffice to say, it worked better for me.
+If you’re in a similar position, I’d recommend checking out [this repo](https://github.com/poteto/hiring-without-whiteboards) for a list of companies that don’t use whiteboard style interviews. I won’t talk too much about the interview process of the company I ended up going with. I don’t want to shill too much. But if you’re curious, I’m happy to talk about it. Suffice to say, it worked better for me.
