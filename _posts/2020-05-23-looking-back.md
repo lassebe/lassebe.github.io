@@ -2,7 +2,7 @@
 layout: post
 title:  "Two year retrospective"
 date:   2020-05-24 12:05:20 +0100
-categories: none
+categories: work
 ---
 
 I've been working at Pivotal for about two years now, in that time the company went public, and then got acquired by VMware.
