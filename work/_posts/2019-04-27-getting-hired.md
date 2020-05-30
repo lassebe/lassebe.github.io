@@ -2,7 +2,6 @@
 layout: post
 title:  "How I got my first software engineering job"
 date:   2019-04-27 18:16:50 +0100
-categories: work
 ---
 
 Some background. Around August 2018 I started my Master’s thesis, the final step towards my degree that I’d started on 6 years earlier. Some of my classmates had already finished their thesis before the summer; I decided to extend my studies by an extra semester to get some more coursework, following a year in Tokyo which was extremely educational in a lot of ways, but not necessarily what I wanted/needed academically.

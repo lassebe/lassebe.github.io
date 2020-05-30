@@ -2,7 +2,6 @@
 layout: post
 title:  "Daily Writing Exercise"
 date:   2020-05-29 22:36:40 +0100
-categories: daily
 ---
 
 Inspired by a thread by [@DRMaciver](https://twitter.com/DRMacIver/status/1265999120042467329).
