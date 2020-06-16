@@ -41,8 +41,40 @@ I genuinely think this combative atmosphere is one of the major reasons I was pu
 Eventually I was able to have a conversation with Professor Ishikawa, who drew the short straw of supervising me, and I learned that the website of the lab was very much out of date, And that the projects that I'd thought were interesting were no longer being worked on.
 
 
-*To be continued*
+### Courses - Such as they were
+
+I had to scrape a bit to find courses given in English. I did definitely appreciate the chance to take some modules in other subjects like history and philosophy. 
+But overall the quality of the courses were a bit all over the place. My biggest complaint would have been the lack of context. In many cases, the professor would show up, and just start talking from his slides, with no preface and no real indication of how anything fit together. For example, there was a course called Stochastic Methods in Mathematical Informatics, that to this day remains the most baffling hour and a half of my life. The professor was just writing out theorems for an hour and a half. I dropped that course after the first lecture.
+
+The examination was also extremely varied. The worst offender was a course in Parallel and Distributed Computing Systems; I really enjoyed the content, even though it wasn't quite what I'd expected. But after the twelve lectures, we were given our first and only assignment: "Write a parallel program, and write a one page report on it.". 
+
+I'm just going to go through each of the courses, some of them might still be given, and on the off-chance that someone is in the same situation that I was in, I'd like to give them just a bit more information than I had. Starting with some courses I didn't finish:
+
+* 4820-1001 Stochastic Methods in Mathematical Informatics 
+  I don't even know, according to some people who stayed, it was about using statistical methods to forecast stock markets? 
+
+* 4860-1068 Physically Based Animation 
+  A really good course covering lots of different techniques for computer based animation, with a focus on physics (gravity, lighting, etc.). I ended up dropping it because I missed some important deadlines while travelling, but it was probably the best structured course. The lecturer was really good as well.
+
+* 4850-1007 Robotics
+  Seemed to just be pure mathematics. I finally got bit by my lack of Multivariate Calculus. 
+
+* 4810-1115 Parallel Numerical Computations
+  A semi-rare instance of a course with lots of practical elements. Mostly focused around using MPI, and running on large supercomputers. I can't remember why I dropped this, I have vague memories of struggling in vain to get accounts set up.
 
 
+Now for the ones I actually finished:
 
+* Introduction to Philosophy
+  An undergraduate course given by an enthusiastic professor. I mostly remember it covering ethics, and the problem of induction. He talked up the exam a lot, but it was nothing to write home about.
 
+* Operations Research
+  The only course I took given at the Komaba Campus. I appreciated learning about the Simplex method and how the computational complexity is at odds with its performance in practice. There were small weekly assignments, and I think there was even some programming involved. I think this was the only course that wasn't managed by email.
+
+* Early Modern Philosophy 1: Rationalism (Descartes, Spinoza, Leibniz)
+  This was basically The Good Place, each week we'd read a text by the above mentioned philosophers, write some notes, and discuss it during a seminar. The reading was probably the most dense I've had to do. But the discussions were really nice and gave me more perspective. I also made a good friend thanks to this course. There was also a final
+
+* Parallel and Distributed Computing Systems
+  The lectures mostly talked about Dataflow Architecture, a subject that I'd never heard anything about before or since. But it was pretty neat. I just wish there'd been some exercises or something that could've helped solidify the content. Or even a textbook. As it stands I have some notes somewhere, that are not very understandable.
+
+  To be continued.
